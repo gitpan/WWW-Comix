@@ -1,6 +1,6 @@
 package WWW::Comix;
 
-use version; our $VERSION = qv('0.1.0');
+use version; our $VERSION = qv('0.1.1');
 
 use warnings;
 use strict;
@@ -119,7 +119,7 @@ WWW::Comix - programmatically access comics on the web
 
 =head1 VERSION
 
-This document describes WWW::Comix version 0.1.0. Most likely, this
+This document describes WWW::Comix version 0.1.1. Most likely, this
 version number here is outdate, and you should peek the source.
 
 

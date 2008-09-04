@@ -1,6 +1,6 @@
 ---
 name: WWW-Comix
-version: 0.1.0
+version: 0.1.1
 author:
   - 'Flavio Poletti <flavio [at] polettix [dot] it>'
 abstract: programmatically access comics on the web
@@ -24,7 +24,7 @@ requires:
 provides:
   WWW::Comix:
     file: lib/WWW/Comix.pm
-    version: 0.1.0
+    version: 0.1.1
   WWW::Comix::Plugin:
     file: lib/WWW/Comix/Plugin.pm
   WWW::Comix::Plugin::ArcaMax:
